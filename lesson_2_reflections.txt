@@ -1,0 +1,5 @@
+1-O que acontece ao iniciar um repositório? Por que você precisa fazer isso?
+R:Ao criar um repositorio é criado um directorio de nome ".git", é preciso fazer isso para serem criados metadados dos ficheiros que permitam visualizar e usar as versoes anterios dos ficheiros.
+
+2-Em que se difere a área de preparação do diretório de trabalho e do repositório? Qual valor você acha que ela oferece?
+R:A area de preparação do directorio do directorio de trabalho é onde são adicionados os ficheiros que seram comitados, quero com isto dizer que é ela onde são guardados os ficheiros que seram comitados.
