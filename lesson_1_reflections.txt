@@ -1,0 +1,22 @@
+1-Como a visualização de um diff entre duas versões de um arquivo ajuda você a ver o bug que foi introduzido?
+R: Ajudar me a, a encontrar as linhas modificadas mas facilmente, simplificando a tarefa que seria mais penosa se estivesse a faze-lo manulamente.
+
+2-Como ter fácil acesso a todo o histórico de um arquivo pode torná-lo um programador mais eficiente no longo prazo?
+R:ter facil acesso ao historico de arquivos pode me tornar um programar melhor porque terei acesso as versoes anteriores caso algum bug ocorra na nova versao posso facilmente resolve -la comparando com a penultima versao, e deste modo localizar onde esta o bug.
+
+3-Na sua opinião, quais são os prós e contras de escolher manualmente quando criar um commit, como ocorre no Git, v. o salvamento automático de versões, como no Google Docs?
+R:Prós- ter um commit com as alterações mais importantes feitas no projecto,
+o commit não tera muitas ou poucas alterações.
+Contra:lembrar sempre de salvar um commit.
+
+4-Por que você acha que alguns sistemas de controle de versão, como o Git, permitem salvar vários arquivos em um commit, enquanto outros, como o Google Docs, tratam cada arquivo separadamente?
+R:O Git permite salvar varios arquivos em um commit porque em programação a maioria dos arquivos estam relacionados, a mudança em um arquivo influencia em outro arquivo.
+
+5-Como usar os comandos git log e git diff para visualizar o histórico dos arquivos?
+R:primeiro digito o comando "git log" para visualizar o historico de commits do ficheiro, depois digito o comando git diff para comparar o historico de alterações de dois commits.
+
+5-De que modo o controle de versão pode dar a você mais segurança para fazer alterações que podem danificar algo?
+R:o control de versão da-me mais segurança porque a qulaquer momento eu posso voltar em um commit que não contem bug e a partir dai anlisar o que fez ocorrer o bug.
+
+6-Agora que você já configurou a sua área de trabalho, você quer usar o Git para quê?
+R:Quero usar o Git para trabalhar com versoes de documentos e comparacoes de versoes.
