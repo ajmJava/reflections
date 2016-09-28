@@ -3,3 +3,21 @@ R:Ao criar um repositorio é criado um directorio de nome ".git", é preciso faz
 
 2-Em que se difere a área de preparação do diretório de trabalho e do repositório? Qual valor você acha que ela oferece?
 R:A area de preparação do directorio do directorio de trabalho é onde são adicionados os ficheiros que seram comitados, quero com isto dizer que é ela onde são guardados os ficheiros que seram comitados.
+
+3-Como você pode usar a área de preparação para garantir que tenha um commit por alteração lógica?
+R:Selecionando um ficheiro que tenha uma alteração logica por vez.
+
+4-Quais são algumas das situações em que branches seriam úteis para manter seu histórico organizado? Como branches ajudariam?
+R:Os branches ajudariam a criar uma versão paralela da original em uma lingua diferente por exemplo, ou experimentar coisa diferentes no projecto que nada tem haver com atualização do mesmo.
+
+5-Como os diagramas ajudam a visualizar a estrutura de branches?
+R:Os diagramas ajudam a ter uma visão global dos
+branches criados e dos commits associados.
+
+6-Qual é o resultado da mesclagem de dois branches? Por que o representamos no diagrama dessa forma?
+R:o resultado da mesclagem de dois branches é um unnico brach que combina as modificalçoes de ambos.
+Foi representado desta forma para visualizarmos os commites de ambos e ver a hierarquia de commits de commits de ambos.
+
+7-Quais são os prós e contras da mesclagem automática do Git v. sempre fazer mesclagens manualmente?
+R:Pros: Permite unir dois arquivos que foram desenvolvidos separadamente. permite actualizar um branch com novos recursos que foram testados em outro brach. facilita o desenvolvimento de aplicativos.
+Nanual: Permite solucionar conflitos de mesclagem que o Git não consegue lidar, dando a reponsabilidade ao desenvolvedor que tem a sabedoria não resolver os conflitos de mesclagem que surgem.
