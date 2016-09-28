@@ -20,3 +20,4 @@ R:o control de versão da-me mais segurança porque a qulaquer momento eu posso 
 
 6-Agora que você já configurou a sua área de trabalho, você quer usar o Git para quê?
 R:Quero usar o Git para trabalhar com versoes de documentos e comparacoes de versoes.
+
