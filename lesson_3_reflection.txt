@@ -1,1 +1,2 @@
-Quando você deseja criar um repositório remoto em vez de manter todos os seus locais de trabalho?
+Quando gostaria de usar um repositório remoto em vez de manter o trabalho local?
+R:Gostaria de manter um repositoio remoto quando estivesse a trabalhar em mais de um computador e em forma colaborativa.
