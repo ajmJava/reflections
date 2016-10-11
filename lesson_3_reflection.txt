@@ -3,3 +3,6 @@ R:Gostaria de manter um repositoio remoto quando estivesse a trabalhar em mais d
 
 Por que você prefere efetuar pull de alterações manualmente do que deixar o Git atualizar-se automaticamente com o seu repositório remoto?
 R:Fazendo o pull manualmente tenho mais controle sobre o repositorio, e em qual branch eu quero efetuar o pull. 
+
+3-Descreva as diferenças entre bifurcações, clones e branches. Quando você usaria um e não os outros?
+R:Branche são rotulos que o git permite criar para termos versoes de teste de um softwere, clone consiste em uma copia de um repositorio para o nosso computador e bifurcão só acontece no GitHub e permite fazer uma copia do repositorio de outra pessoa directamente nos servidores do GitHub.
